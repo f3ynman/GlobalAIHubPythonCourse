@@ -1,1 +1,2 @@
-
+Created to be able to add a folder inside repo. 
+Meanless txt file, ignore this.
